@@ -1,0 +1,18 @@
+{
+  "dataset": "derek-thomas/ScienceQA",
+  "source": "https://huggingface.co/datasets/derek-thomas/ScienceQA",
+  "official_repo": "https://github.com/lupantech/ScienceQA",
+  "splits": {
+    "train": 12726,
+    "val": 4241,
+    "test": 4241
+  },
+  "image_dir": "images/{train,val,test}/{pid}/",
+  "text_files": [
+    "problems.json",
+    "pid_splits.json"
+  ],
+  "saved": 10332,
+  "skipped": 0,
+  "no_image": 10876
+}

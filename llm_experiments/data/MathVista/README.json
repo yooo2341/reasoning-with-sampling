@@ -1,0 +1,10 @@
+{
+  "dataset": "AI4Math/MathVista",
+  "splits": {
+    "testmini": 1000,
+    "test": 5141,
+    "total": 6141
+  },
+  "image_dir": "images",
+  "source": "https://huggingface.co/datasets/AI4Math/MathVista"
+}
